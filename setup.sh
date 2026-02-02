@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 
 # Dependencies
 sudo dnf install zsh zoxide git

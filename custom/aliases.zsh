@@ -1,0 +1,18 @@
+alias c='clear'
+alias e='exit'
+alias update='sudo dnf update && sudo dnf upgrade'
+
+alias ll='ls -la'
+alias status='git status'
+alias pull='git pull'
+alias push='git push'
+alias clone='git clone'
+alias graph='git log --oneline --graph --all --decorate'
+alias add='git add'
+alias commit='git commit'
+alias checkout='git checkout'
+
+alias rstatus='repo status'
+alias rpull='repo sync'
+alias rcheckout='repo checkout'
+alias rdiff='repo diff'
