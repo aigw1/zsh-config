@@ -10,3 +10,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Create Symlink
 ln -sf $(pwd)/.zshrc ~/.zshrc
+
+# Change default shell to zsh
+chsh -s /bin/bash
